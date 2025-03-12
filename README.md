@@ -54,14 +54,14 @@
     
     <script>
         let questions = [
-            { q: "Wie is de hoofdpersoon in het boek?", a: "Lander" },
-            { q: "Wat is de naam van het ziekenhuis waarin Lander wakker wordt?", a: "St. Damianus" },
-            { q: "Wat mist Lander als hij wakker wordt?", a: "Herinneringen" },
-            { q: "Wat betekent de titel 'Doodverklaard' in het verhaal?", a: "Lander werd als dood beschouwd" },
-            { q: "Wie probeert de waarheid te achterhalen?", a: "Elena" },
-            { q: "Wat is een belangrijk voorwerp in het boek?", a: "Dagboek" },
-            { q: "Wie wil niet dat de waarheid uitkomt?", a: "De directeur" },
-            { q: "Wat is de grote plottwist?", a: "Lander is niet dood" }
+            { q: "Wie is de hoofdpersoon in het boek?", a: "Isa" },
+            { q: "Wat overkomt Isa aan het begin van het boek?", a: "Ze wordt ontvoerd" },
+            { q: "Hoe probeert Isa te ontsnappen?", a: "Via een raam" },
+            { q: "Wie is de dader achter de verdwijning van Isa?", a: "Haar stiefvader" },
+            { q: "Wat ontdekt Isa over haar verleden?", a: "Ze werd als doodverklaard" },
+            { q: "Waar wordt Isa vastgehouden?", a: "In een kelder" },
+            { q: "Wie helpt Isa bij haar ontsnapping?", a: "Haar beste vriendin" },
+            { q: "Wat is de grote plottwist aan het einde?", a: "De waarheid over haar familie" }
         ];
         
         let currentQuestion = 0;
