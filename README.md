@@ -55,11 +55,11 @@
     <script>
         let questions = [
             { q: "Wie is de hoofdpersoon in het boek?", a: "Isa" },
-            { q: "Wat overkomt Isa aan het begin van het boek?", a: "Ze wordt ontvoerd" },
+            { q: "Wat overkomt Isa aan het begin van het boek?", a: "Ontvoering" },
             { q: "Hoe probeert Isa te ontsnappen?", a: "Via een raam" },
-            { q: "Wie is de dader achter de verdwijning van Isa?", a: "Haar stiefvader" },
-            { q: "Wat ontdekt Isa over haar verleden?", a: "Ze werd als doodverklaard" },
-            { q: "Waar wordt Isa vastgehouden?", a: "In een kelder" },
+            { q: "Wie is de dader achter de verdwijning van Isa?", a: "Stiefvader" },
+            { q: "Wat ontdekt Isa over haar verleden?", a: "Doodverklaard" },
+            { q: "Waar wordt Isa vastgehouden?", a: "Kelder" },
             { q: "Wie helpt Isa bij haar ontsnapping?", a: "Haar beste vriendin" },
             { q: "Wat is de grote plottwist aan het einde?", a: "De waarheid over haar familie" }
         ];
